@@ -2,36 +2,32 @@
 
 ### Education and Research Experience
 1. Doctor of Philosophy (Atmosphere and Ocean Sciences) [Jan. 2020 – Dec. 2024]
-
-  Indian Institute of Technology Bhubaneswar
-  School of Earth Ocean and Climate Sciences
-  Air-Sea Interaction Lab,
-  Supervisor: Dr. Sandeep Pattnaik
-  Thesis: Assessment of precipitation forecast performance and role of dominant physical processes in severe weather systems over the Indian 
-  region
+   Indian Institute of Technology Bhubaneswar
+   School of Earth Ocean and Climate Sciences
+   Air-Sea Interaction Lab,
+   Supervisor: Dr. Sandeep Pattnaik
+   Thesis: Assessment of precipitation forecast performance and role of dominant physical processes in severe weather systems over the 	 
+   Indian region
 	
-
-2. Research Scholar (Meteorology) [Sep. 2017 - Dec. 2019]
-   
-  Banaras Hindu University, Varanasi
-  Department of Geophysics
-  Supervisor: Dr. Gyan Prakash Singh
-  Project: Indian summer monsoon and its variabilities under global warming scenario
+2. Research Scholar (Meteorology) [Sep. 2017 - Dec. 2019] 
+   Banaras Hindu University, Varanasi
+   Department of Geophysics
+   Supervisor: Dr. Gyan Prakash Singh
+   Project: Indian summer monsoon and its variabilities under global warming scenario
 
 3. Master of Science (Technology) (Geophysics) [July 2013 – June 2016]
-   
-  Banaras Hindu University, Varanasi
-  Department of Geophysics
-  Specialization: Meteorology
-  Project supervisor: Dr. Gyan Prakash Singh (BHU) and Dr. Indira S. Rani (NCMRWF, Noida, India)
-  Dissertation: Simulation of INSAT-3D Imager Brightness Temperature
+   Banaras Hindu University, Varanasi
+   Department of Geophysics
+   Specialization: Meteorology
+   Project supervisor: Dr. Gyan Prakash Singh (BHU) and Dr. Indira S. Rani (NCMRWF, Noida, India)
+   Dissertation: Simulation of INSAT-3D Imager Brightness Temperature
 	
-4. Bachelor of Science, Physics and Mathematics [July 2010 – June 2013]
-  S.G.R.P.G. College under Purvanchal University, Jaunpur
+5. Bachelor of Science, Physics and Mathematics [July 2010 – June 2013]
+   S.G.R.P.G. College under Purvanchal University, Jaunpur
 
-5. Intermediate (XII), (Physics, Mathematics, Chemistry, English, Hindi) [June 2010]
+6. Intermediate (XII), (Physics, Mathematics, Chemistry, English, Hindi) [June 2010]
 
-6. High School (X), Science [June 2008]
+7. High School (X), Science [June 2008]
 
 ### Research Interests
   Numerical Modelling, Physical Parameterizaions, Severe Weather Events, Tropical Cyclones, Meso-scale Convective Systems, Extreme Rainfall 
